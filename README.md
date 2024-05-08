@@ -57,10 +57,15 @@ To get started, clone this repository using the `git clone` command.
 
 To use Jeanius Digital :
 
-1. Install `requirements.txt` on the backend.
-2. Install `requirements.txt` on the frontend.
+### Backend
+1. Navigate to backend folder `cd backend`
+2. Install the dependencies listed in `requirements.txt` using `pip install -r requirements.txt`.
 3. Run the backend using the command: `python manage.py runserver `
-4. Run the front end using: `npm start`
+
+### Frontend
+1. Navigate to frontend folder `cd frontend`.
+2. Install all dependencies using `npm install`.
+3. Run the front end using: `npm start`.
 
 ## Technologies Used
 
